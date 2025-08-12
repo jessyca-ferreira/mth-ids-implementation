@@ -2,4 +2,4 @@ O paradigma de Internet dos Veículos (IoV) interconecta redes intraveiculares (
 
 O presente trabalho reproduz com sucesso a arquitetura MTH-IDS, validando seus resultados. Como contribuição adicional, introduzimos o conjunto de dados CICIDS2018 para avaliar a robustez do sistema e sua capacidade de generalização temporal. Os novos resultados confirmam a eficácia da abordagem híbrida, alcançando uma taxa de detecção (DR) de 96% para ataques conhecidos e uma média de 84% em ataques zero-day.
 
-O código utilizado para cada um dos três datasets utilizados encontra-se em suas respectivas pastas.
+O código utilizado para cada um dos três datasets escolhidos encontra-se em suas respectivas pastas.
